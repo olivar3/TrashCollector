@@ -5,7 +5,7 @@ using System.Web;
 
 namespace TrashCollector.Models
 {
-    public class MyCollection
+    public class Collection
     {
         public int Id { get; set; }
         public int NumberThisMonth  { get; set; }
